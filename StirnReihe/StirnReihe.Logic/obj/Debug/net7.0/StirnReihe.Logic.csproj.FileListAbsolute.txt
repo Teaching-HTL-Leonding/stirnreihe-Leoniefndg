@@ -1,0 +1,11 @@
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/bin/Debug/net7.0/StirnReihe.Logic.deps.json
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/bin/Debug/net7.0/StirnReihe.Logic.dll
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/bin/Debug/net7.0/StirnReihe.Logic.pdb
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.AssemblyInfoInputs.cache
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.AssemblyInfo.cs
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.csproj.CoreCompileInputs.cache
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.dll
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/refint/StirnReihe.Logic.dll
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/StirnReihe.Logic.pdb
+/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/obj/Debug/net7.0/ref/StirnReihe.Logic.dll

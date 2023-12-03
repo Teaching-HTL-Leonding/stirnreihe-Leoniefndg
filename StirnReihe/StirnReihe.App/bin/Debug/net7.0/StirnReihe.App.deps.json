@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StirnReihe.App/1.0.0": {
+        "dependencies": {
+          "StirnReihe.Logic": "1.0.0"
+        },
+        "runtime": {
+          "StirnReihe.App.dll": {}
+        }
+      },
+      "StirnReihe.Logic/1.0.0": {
+        "runtime": {
+          "StirnReihe.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StirnReihe.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StirnReihe.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

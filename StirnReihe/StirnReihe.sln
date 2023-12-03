@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StirnReihe.Logic", "StirnReihe.Logic\StirnReihe.Logic.csproj", "{417991E3-16D8-4DA2-BC32-C18CAAFB190D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StirnReihe.App", "StirnReihe.App\StirnReihe.App.csproj", "{AEA3B28C-ECCD-43B5-9B85-CD0646E6D01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417991E3-16D8-4DA2-BC32-C18CAAFB190D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417991E3-16D8-4DA2-BC32-C18CAAFB190D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417991E3-16D8-4DA2-BC32-C18CAAFB190D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417991E3-16D8-4DA2-BC32-C18CAAFB190D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA3B28C-ECCD-43B5-9B85-CD0646E6D01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA3B28C-ECCD-43B5-9B85-CD0646E6D01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA3B28C-ECCD-43B5-9B85-CD0646E6D01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA3B28C-ECCD-43B5-9B85-CD0646E6D01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB57553-1A54-4DE1-AF5B-D7B5EA23684F}
+	EndGlobalSection
+EndGlobal

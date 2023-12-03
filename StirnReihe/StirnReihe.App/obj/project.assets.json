@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "StirnReihe.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StirnReihe.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StirnReihe.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StirnReihe.Logic/1.0.0": {
+      "type": "project",
+      "path": "../StirnReihe.Logic/StirnReihe.Logic.csproj",
+      "msbuildProject": "../StirnReihe.Logic/StirnReihe.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "StirnReihe.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/leoniefindenig/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.App/StirnReihe.App.csproj",
+      "projectName": "StirnReihe.App",
+      "projectPath": "/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.App/StirnReihe.App.csproj",
+      "packagesPath": "/Users/leoniefindenig/.nuget/packages/",
+      "outputPath": "/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/leoniefindenig/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/StirnReihe.Logic.csproj": {
+              "projectPath": "/Users/leoniefindenig/Desktop/HTL/PRO2AHIF/010.StirnReihe/StirnReihe/StirnReihe.Logic/StirnReihe.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
